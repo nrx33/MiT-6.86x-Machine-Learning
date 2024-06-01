@@ -1,0 +1,12 @@
+{
+  "name": "Python 3.8 with Data Science Packages",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.8",
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python"
+  },
+  "extensions": [
+    "ms-python.python"
+  ],
+  "postCreateCommand": "pip install numpy matplotlib scikit-learn scipy tqdm torch",
+  "remoteUser": "vscode"
+}
