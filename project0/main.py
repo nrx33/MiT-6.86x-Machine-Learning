@@ -82,9 +82,9 @@ def vector_function(x, y):
     raise NotImplementedError
 
 if __name__ == "__main__":
-    #print(randomization(5))
-    #print(operations(2,3))
-    #print(norm(np.array([1,2]), np.array([3,4])))
-    #print(neural_network(np.random.random((2,1)), np.random.random((2,1))))
-    #print(scalar_function(2,3))
+    print(randomization(5))
+    print(operations(2,3))
+    print(norm(np.array([1,2]), np.array([3,4])))
+    print(neural_network(np.random.random((2,1)), np.random.random((2,1))))
+    print(scalar_function(2,3))
     print(vector_function(2,3))
