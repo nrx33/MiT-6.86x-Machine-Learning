@@ -1,6 +1,6 @@
 ### MITx-6.86x : Machine Learning with Python From Linear Models to Deep Learning
 
-`Course Resources`
+<br>`Course Resources`
 
 * Lecture 0
   * [Course Calendar](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/course_calendar.pdf)<br> 
