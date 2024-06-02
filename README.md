@@ -1,4 +1,4 @@
-## MITx_6.86x : Machine Learning with Python (From Linear Models to Deep Learning)
+## MITx_6.86x : Machine Learning with Python From Linear Models to Deep Learning
 
 `Course Resources`
 
