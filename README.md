@@ -20,4 +20,16 @@
   * [Lecture 4 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_4_notes.pdf)<br> 
 
 * Lecture 5
-  * [Lecture 5 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_5_notes.pdf)<br> 
+  * [Lecture 5 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_5_notes.pdf)<br>
+
+* Lecture 8
+  * [Lecture 8 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_8_notes.pdf)<br>
+ 
+* Lecture 9
+  * [Lecture 9 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_9_notes.pdf)<br>
+ 
+* Lecture 12
+  * [Lecture 12 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_12_notes.pdf)<br>
+ 
+* Lecture 16
+  * [Lecture 16 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_16_notes.pdf)<br> 
