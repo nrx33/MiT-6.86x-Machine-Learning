@@ -9,3 +9,15 @@
 
 * Lecture 1
   * [Lecture 1 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_1_notes.pdf)<br> 
+
+* Lecture 2
+  * [Lecture 2 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_2_notes.pdf)<br> 
+
+* Lecture 3
+  * [Lecture 3 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_3_notes.pdf)<br> 
+
+* Lecture 4
+  * [Lecture 4 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_4_notes.pdf)<br> 
+
+* Lecture 5
+  * [Lecture 5 Notes](https://github.com/nrx33/MITx_6.86x/blob/main/course_resources/lecture_5_notes.pdf)<br> 
